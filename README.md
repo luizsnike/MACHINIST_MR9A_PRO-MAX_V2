@@ -1,6 +1,7 @@
 # MACHINIST MR9A PRO MAX V2 X99 Xeon Kit
 EFI para Hackintosh da Placa Machinist MR9A Pro Max V2
 
+## Informações
 OSX: Ventura 13
 BootLoader: Clover
 Aida64: Report em anexo
@@ -8,7 +9,7 @@ BIOS: Anexo o Dump Original da Bios sem Turbo Boost
 GPU Temp Monitor: APP para monitorar temperatura em anexo
 ACPI: Extract do DSDT e SSDT em anexo
 
-Configuração:
+## Configuração:
 
 MB: Machinist MR9A Pro Max V2 (Kext dos sensores de temperatura ativos)
 ChipSet: B85
